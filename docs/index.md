@@ -1,8 +1,8 @@
 ---
 title: 框架/库学习记录
 hero:
-  title: <b>Site</b>
-  description: 基于dumi的框架/库学习记录
+  title: <b>ZX</b>
+  description: 基于dumi的框架/库学习记录站
 features:
   - title: RxJS
     image: 'https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png'
