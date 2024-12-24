@@ -25,9 +25,9 @@
   "devDependencies": {
     "@commitlint/cli": "^17.8.1",
     "@commitlint/config-conventional": "^17.8.1",
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "dumi": "^2.4.7",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "dumi": "^2.4.17",
     "dumi-theme-antd-style": "^0.31.1",
     "husky": "^8.0.3",
     "lint-staged": "^13.3.0",
